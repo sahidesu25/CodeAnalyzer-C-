@@ -1,0 +1,35 @@
+C:\su\temp\VSHelp\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\VSHelp\FileMgr\obj\Debug\FileMgr.pdb
+C:\su\temp\VSHelp\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\VSHelp\FileMgr\bin\Debug\FileMgr.dll.config
+C:\su\temp\VSHelp\FileMgr\bin\Debug\FileMgr.dll
+C:\su\temp\VSHelp\FileMgr\obj\Debug\FileMgr.dll
+C:\Users\Sahithi\Desktop\prjt sma\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Sahithi\Desktop\prjt sma\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\Sahithi\Desktop\prjt sma\FileMgr\bin\Debug\FileMgr.dll.config
+C:\Users\Sahithi\Desktop\prjt sma\FileMgr\bin\Debug\FileMgr.dll
+C:\Users\Sahithi\Desktop\prjt sma\FileMgr\obj\Debug\FileMgr.dll
+C:\Users\Sahithi\Desktop\prjt_sma\FileMgr\bin\Debug\FileMgr.dll.config
+C:\Users\Sahithi\Desktop\prjt_sma\FileMgr\bin\Debug\FileMgr.dll
+C:\Users\Sahithi\Desktop\prjt_sma\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Sahithi\Desktop\prjt_sma\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\Sahithi\Desktop\prjt_sma\FileMgr\obj\Debug\FileMgr.dll
+C:\Users\Sahithi\Desktop\prjt_sma\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\Sahithi\Desktop\sahithi sma\FileMgr\bin\Debug\FileMgr.dll.config
+C:\Users\Sahithi\Desktop\sahithi sma\FileMgr\bin\Debug\FileMgr.dll
+C:\Users\Sahithi\Desktop\sahithi sma\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Sahithi\Desktop\sahithi sma\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\Sahithi\Desktop\sahithi sma\FileMgr\obj\Debug\FileMgr.dll
+C:\Users\Sahithi\Desktop\sahithi sma\FileMgr\obj\Debug\FileMgr.pdb
+D:\Visual Studio Project\SmaPractise\Sahithi_Submission\Sma_final\FileMgr\bin\Debug\FileMgr.dll.config
+D:\Visual Studio Project\SmaPractise\Sahithi_Submission\Sma_final\FileMgr\bin\Debug\FileMgr.dll
+D:\Visual Studio Project\SmaPractise\Sahithi_Submission\Sma_final\FileMgr\bin\Debug\FileMgr.pdb
+D:\Visual Studio Project\SmaPractise\Sahithi_Submission\Sma_final\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\SmaPractise\Sahithi_Submission\Sma_final\FileMgr\obj\Debug\FileMgr.dll
+D:\Visual Studio Project\SmaPractise\Sahithi_Submission\Sma_final\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\Tushar\Desktop\Sma_final\FileMgr\bin\Debug\FileMgr.dll.config
+C:\Users\Tushar\Desktop\Sma_final\FileMgr\bin\Debug\FileMgr.dll
+C:\Users\Tushar\Desktop\Sma_final\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Tushar\Desktop\Sma_final\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\Tushar\Desktop\Sma_final\FileMgr\obj\Debug\FileMgr.dll
+C:\Users\Tushar\Desktop\Sma_final\FileMgr\obj\Debug\FileMgr.pdb
